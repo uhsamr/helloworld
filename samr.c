@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void){
-	printf("S A M R");
+	printf("SURFACE");
 	return 0;
 	}
