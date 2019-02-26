@@ -3,7 +3,7 @@
 int main() 
 {
 	int test1, test2, sum;
-	int whatihadbefore = 100;
+	int whatihadbefore = 13;
 	char dat[50] = "Happy?";
 	time_t result = time(NULL);
 	
@@ -19,7 +19,7 @@ int main()
 	
 	testing(whatihadbefore);
 	
-	printf("The current time is : %s\n\n", asctime( gmtime( &result ) ) );
+	printf("The current time and date is : %s\n\n", asctime( gmtime( &result ) ) );
 
 	printf("%s\n\n", dat);
 	
