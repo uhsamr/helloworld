@@ -17,4 +17,6 @@ int sample_function(int test1, int test2);
 
 void testing(int test);
 
+void letterswitch(char letter);
+
 #endif
