@@ -38,3 +38,7 @@ void letterswitch(char letter)
 	}//end switch
 }
 
+void surface(void){
+	printf("This was added on the surface");
+}
+

@@ -29,6 +29,8 @@ int main()
 	
 	letterswitch(letter);
 	
+	surface();
+	
 	
 	return 0;
 }
