@@ -21,4 +21,7 @@ void letterswitch(char letter);
 
 void NUC(void);
 
+void surface(void);
+
+
 #endif

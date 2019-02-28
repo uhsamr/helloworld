@@ -38,7 +38,11 @@ void letterswitch(char letter)
 	}//end switch
 }
 
+
 void NUC(void){
 	printf("This was added on the NUC");
+}
+void surface(void){
+	printf("This was added on the surface");
 }
 

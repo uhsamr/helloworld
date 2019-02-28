@@ -29,7 +29,8 @@ int main()
 	letterswitch(letter);
 	
 	NUC();
-	
-	
+
+	surface();
+
 	return 0;
 }
