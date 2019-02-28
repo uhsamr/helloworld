@@ -26,8 +26,9 @@ int main()
 	
 	printf("Enter an option a - d:\n\n");
 	scanf(" %c", &letter);//use space infront %c to avoid the new line when reading scanf.
-	
 	letterswitch(letter);
+	
+	NUC();
 	
 	
 	return 0;

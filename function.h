@@ -19,4 +19,6 @@ void testing(int test);
 
 void letterswitch(char letter);
 
+void NUC(void);
+
 #endif
